@@ -1,2 +1,0 @@
-# bretonia-pagina
-Proyecto Bretonia
